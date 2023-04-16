@@ -1,5 +1,5 @@
 /**
- * @author mrdoob / http://mrdoob.com/
+ * @author Rayan Hamour
  */
 
 var Stats = function () {
