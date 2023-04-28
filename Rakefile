@@ -1,4 +1,4 @@
-
+#======================= Rayan Hamour ===========================================
 desc 'recreate sprite sheets'
 task 'resprite' do
   require 'sprite_factory'
