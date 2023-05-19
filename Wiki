@@ -1,7 +1,6 @@
 # Game Description
 Steet racer 2D racing game that puts you in the driver's seat of high-speed vehicle, challenging you to dominate the street racing sean and become the ultimate street racing champion. With its stunning visuals, exhilarating gameplay, and a wide array of features, this game will keep you on the edge of your seat as you experience the adrenaline rush of competitive racing.
 
-
 Street racer 2D offers multiple game modes to cater to different playstyles. Engage in intense single-player racing, complete with challenging AI opponents and that will keep you hooked. Test your skills; precision and speed are crucial to achieving the best lap times. Or 
 
 The controls are intuitive and responsive, allowing you to navigate sharp turns, and perform daring overtakes. Mastering the art of racing strategically will give you the competitive edge needed to outmaneuver the traffic and secure the best lap time.
