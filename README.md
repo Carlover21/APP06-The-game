@@ -1,20 +1,12 @@
 # Game Description
-This app will a create a simple 2D game similar to PacMan where the player moves a character around the screen eating, picking up or shooting some item, whilst other actors (objects that also move around) hinder or get in the way of the player's character completing their mission.    
+Steet racer 2D racing game that puts you in the driver's seat of high-speed vehicle, challenging you to dominate the street racing sean and become the ultimate street racing champion. With its stunning visuals, exhilarating gameplay, and a wide array of features, this game will keep you on the edge of your seat as you experience the adrenaline rush of competitive racing.
 
-The app can be developed using C# and [MonoGame](https://www.monogame.net/) for any suitable platform such as Mobile Phone, Tablet, Games Console or Desktop using IOS, Android, Windows, Linux, PS4, XBox.  This video [The Best Games Made with MonoGame](https://www.youtube.com/watch?v=0S8pixXWqD0&ab_channel=AskGamedev) is a good introduction to the history of MonoGame.
 
-If you are working on a Mac with IOS please watch the first 7 minutes of [Getting Started with MonoGame using Visual Studio for Mac](https://www.youtube.com/watch?v=Hxo9A0-qcVo&ab_channel=TheDarksideofMonoGame)
+Street racer 2D offers multiple game modes to cater to different playstyles. Engage in intense single-player racing, complete with challenging AI opponents andthat will keep you hooked. Test your skills , where precision and speed are crucial to achieving the best lap times. Or 
 
-[Please watch the following YouTube Video Series over the Easter Break](https://github.com/BNU-CO453/ConsoleApps15/wiki/Introduction-to-MonoGame)     
+The controls are intuitive and responsive, allowing you to navigate sharp turns, perform daring overtakes. Mastering the art of racing strategically will give you the competitive edge needed to outmaneuver the traffic and secure the best lap time.
 
-Take a copy if this wiki page and come back from Easter with a selected game outline including a general description of the game and a list of specific features that match the original user requirements.   
-
-You can start the game from scratch with a new MonogGame project (see the videos for week 9) or take a copy of this       
-[App05 MonoGame Template created by Derek and Andrei by clicking on the **Use this Template** Button](https://github.com/BNU-CO453/App05MonoGame) or     
-[App05 MonoGame Template for Mac IOS](https://github.com/BNU-CO453/MacApp05Game)      
-[Blank MonoGame using OpenGL for Mac and Windows](https://github.com/BNU-CO453/MonoGameOpenGL.git)
-   
-![MonoGame](https://github.com/BNU-CO453/ConsoleApps15/blob/master/ConsoleAppProject/Images/App05%20MonoGame.jpg)
+With its stunning graphics, realistic physics, and immersive sound design,  Start your engines and prepare for the ride of your life!
 # General Game Requirements
 *The student must remove these general features and replace them with a specific game summary and list of proposed specific game features to gain the marks.  The deadline is Week 11*
 
